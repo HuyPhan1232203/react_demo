@@ -1,0 +1,20 @@
+.authen-template {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://cdn.mos.cms.futurecdn.net/Hufd2bZdK3eRn5DJGuUuVg-1280-80.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.authen-templat__form {
+    width: 500px;
+    height: 80vh;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+/* flex box */
